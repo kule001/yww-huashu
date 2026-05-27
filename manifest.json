@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "app_name": "易歪歪话术库",
+  "data_version": 1,
+  "groups_count": 6,
+  "words_count": 1260,
+  "images_count": 461,
+  "files": {
+    "groups": "data/groups.json",
+    "words": "data/words.json"
+  }
+}
